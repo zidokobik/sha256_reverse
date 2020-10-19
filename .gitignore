@@ -1,3 +1,5 @@
 venv
 testing2.py
 testing3.py
+.idea
+__pycache__
